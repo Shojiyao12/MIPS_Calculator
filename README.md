@@ -8,6 +8,9 @@
 - Introduction to Computer Organization and Machine-level Programming
 - Introduction to Assembly Languages
 
+### Note: 
+This also included user-error protection in situations where the user would possibly input something that is invalid, and the system would return “Syntax Error” as a warning for the user.
+
 ## Preview of MIPS-based Calculator Functionality
 ![Sample of Lines of Code Showing Steps 1](https://github.com/Shojiyao12/MIPS_Calculator/assets/90734662/c93ff309-b6b3-419f-9e6a-54a1603f125b)
 ![Sample of Lines of Code Showing Steps 2](https://github.com/Shojiyao12/MIPS_Calculator/assets/90734662/4bdffff8-9146-48fd-9904-3e1f7db3b662)
